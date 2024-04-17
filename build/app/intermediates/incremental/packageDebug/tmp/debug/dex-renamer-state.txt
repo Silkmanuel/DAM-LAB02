@@ -1,0 +1,4 @@
+#Wed Apr 17 22:19:04 WAT 2024
+base.0=/home/dragonfly/AndroidStudioProjects/Lab02/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
